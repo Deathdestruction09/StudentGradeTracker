@@ -1,7 +1,8 @@
 # StudentGradeTracker
+
 1. Problem Selection and Motivation
 Problem Statement
-As a college student, I frequently need to track my grades across multiple courses, calculate my GPA, and understand my academic performance. Manual tracking using spreadsheets or paper is error-prone, time-consuming, and lacks interactivity. A simple, console-based grade management system would solve this real-world problem.
+As a college student,I frequently need to track my grades across multiple courses, calculate my GPA, and understand my academic performance. Manual tracking using spreadsheets or paper is error-prone, time-consuming, and lacks interactivity. A simple, console-based grade management system would solve this real-world problem.
 
 Why Java Platform?
 Course Relevance: This project directly applies concepts from the "Programming in Java" course: OOP (classes, objects), collections (ArrayList, Scanner), file I/O (PrintWriter), loops, conditionals, and exception handling.
