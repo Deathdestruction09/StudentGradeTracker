@@ -16,6 +16,7 @@ Console-Based: No GUI frameworks needed, focusing on core programming skills.
 2. System Design and Architecture
 The project uses Object-Oriented Design with three main classes:
 
+
 Class Diagram
 text
 Student ──┐
@@ -35,6 +36,7 @@ Student handles individual GPA calculation.
 Grade handles grade conversion (percentage → letter grade → GPA points).
 
 GradeManager handles business logic, user interaction, and persistence.
+
 
 3. Code Explanation
 3.1 Student Class
